@@ -1,0 +1,6 @@
+Pi,,3.1415927,3.1415927
+Dia,mm,50,50 mm
+Cir,mm,Dia * Pi,157.08
+Hight,mm,50 mm,
+Press_pull,mm,5 mm,
+radius_correction,mm,Dia / 2,Enter this for Diameter in the post diag and in rotation diameter in Mach3
